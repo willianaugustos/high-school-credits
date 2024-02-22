@@ -1,0 +1,6 @@
+@credits.api_HostAddress = http://localhost:5069
+
+GET {{credits.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
